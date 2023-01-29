@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/voice-ai/static/css/main.ff73cdbd.css",
+    "main.js": "/voice-ai/static/js/main.2c1ec4c9.js",
+    "index.html": "/voice-ai/index.html",
+    "main.ff73cdbd.css.map": "/voice-ai/static/css/main.ff73cdbd.css.map",
+    "main.2c1ec4c9.js.map": "/voice-ai/static/js/main.2c1ec4c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff73cdbd.css",
+    "static/js/main.2c1ec4c9.js"
+  ]
+}
