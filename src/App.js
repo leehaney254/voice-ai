@@ -4,6 +4,7 @@ import wordsToNumbers from "words-to-numbers";
 
 import NewsCards from "./components/NewsCards/NewsCards";
 import useStyles from './styles.js';
+import logo from './assets/Leehaney.png';
 
 const alanKey = process.env.REACT_APP_ALLAN_KEY;
 
@@ -11,7 +12,6 @@ const App = () => {
   const [newsArticles, setNewsArticles] = useState([]);
   const [activeArticle, setActiveArticle] = useState(-1);
   const { classes } = useStyles();
-  console.log(alanKey);
 
   useEffect(() => {
     alanBtn({
@@ -38,7 +38,7 @@ const App = () => {
   return (
     <div>
       <div className={classes.logoContainer}>
-        <img alt="logo" src="https://miro.medium.com/max/600/1*CJyCnZVdr-EfgC27MAdFUQ.jpeg" className={classes.alanLogo} />
+        <img alt="logo" src={logo} className={classes.alanLogo} />
       </div>
       <NewsCards articles={newsArticles} activeArticle={activeArticle} />
     </div>
