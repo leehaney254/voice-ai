@@ -20,7 +20,7 @@ export default makeStyles()({
   infoCard: {
     display: 'flex',
     flexDirection: 'column',
-    textAlign: 'center'
+    textAlign: 'center',
   }
 });
 

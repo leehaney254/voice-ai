@@ -16,3 +16,20 @@ body {
 html {
   scroll-behavior: smooth;
 }
+
+#instructioncontainer {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.background {
+  background-color: #283593;
+  color: white;
+  border-radius: 5%;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 8rem;
+}
