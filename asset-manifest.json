@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/voice-ai/static/css/main.ff73cdbd.css",
-    "main.js": "/voice-ai/static/js/main.70bbb265.js",
+    "main.css": "/voice-ai/static/css/main.a00199f4.css",
+    "main.js": "/voice-ai/static/js/main.d2e8e463.js",
     "static/media/Leehaney.png": "/voice-ai/static/media/Leehaney.cc2b82fb6208a1b6ded7.png",
     "index.html": "/voice-ai/index.html",
-    "main.ff73cdbd.css.map": "/voice-ai/static/css/main.ff73cdbd.css.map",
-    "main.70bbb265.js.map": "/voice-ai/static/js/main.70bbb265.js.map"
+    "main.a00199f4.css.map": "/voice-ai/static/css/main.a00199f4.css.map",
+    "main.d2e8e463.js.map": "/voice-ai/static/js/main.d2e8e463.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff73cdbd.css",
-    "static/js/main.70bbb265.js"
+    "static/css/main.a00199f4.css",
+    "static/js/main.d2e8e463.js"
   ]
 }
